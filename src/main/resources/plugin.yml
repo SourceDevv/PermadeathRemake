@@ -1,0 +1,4 @@
+name: PermadeathRemake
+version: '1.0-SNAPSHOT'
+main: me.sourcedevv.permadeathRemake.PermadeathRemake
+api-version: '1.21'
